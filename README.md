@@ -3,6 +3,9 @@
 ### Hi there 👋
 - 🎈 Major in Computer Science
 - ✨ I’m currently learning NLP(natural language processing) and Go-lang.
+
+### Personal Pagei🛠
+- https://ringotc.github.io/
 <!--
 **RingoTC/RingoTC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
