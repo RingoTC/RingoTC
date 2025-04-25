@@ -5,7 +5,7 @@
 - ✨ I’m currently learning NLP(natural language processing) and Go-lang.
 
 ### Personal Pagei🛠
-- https://ringotc.vercel.app/
+- https://derekliao.com
 <!--
 **RingoTC/RingoTC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
